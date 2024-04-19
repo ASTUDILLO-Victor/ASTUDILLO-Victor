@@ -1,8 +1,9 @@
 
 <h1 align="center"><b>Hi , I'm Victor Astudillo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="center" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <!--  -->
+---
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=ASTUDILLO..&hearts;++;Self-taught+WEBSITE+Developer,;Computer+Science+ENGINEER,;Love+to+learn+new+stuffs..<3"></a>
 </p>
